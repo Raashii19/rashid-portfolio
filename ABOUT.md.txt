@@ -1,0 +1,57 @@
+# ABOUT.md
+
+## About Section Content
+
+### Section Title
+About Me
+
+### Professional Introduction
+I am MUHAMMED RASHID V P, a 4th-year BTech student in Robotics and Artificial Intelligence at Rajiv Gandhi Institute of Technology, Kottayam.
+
+I am passionate about building intelligent robotic systems that combine software, embedded electronics, computer vision, and mechanical design. My primary interests include ROS development, robotic control systems, autonomous robotics, embedded integration, and AI-powered robotics applications.
+
+### Engineering Mindset
+I enjoy solving practical engineering problems through a combination of robotics software, system design, and hardware integration. I focus on understanding how complete robotic systems work together, from sensing and control to motion planning and implementation.
+
+I actively use AI tools and modern development workflows to accelerate learning, improve productivity, and enhance project development.
+
+### Technical Interests
+My technical interests include:
+- Robotics software development
+- ROS1 and ROS2
+- Computer vision using OpenCV
+- Embedded systems and microcontrollers
+- Autonomous robotic systems
+- Motion planning and robot control
+- AI-assisted engineering workflows
+
+### Current Focus
+Currently, I am improving my skills in:
+- advanced ROS2 workflows
+- robotic simulation
+- autonomous navigation
+- computer vision
+- robotic system integration
+- real-world robotics software development
+
+### Career Goal
+My goal is to build a career in robotics and AI engineering, working on intelligent robotic systems, autonomous platforms, robotic software, and vision-based automation technologies.
+
+I aim to contribute to robotics companies and engineering teams that focus on innovation, automation, and intelligent systems.
+
+### Portfolio Tone Rules
+The About section should sound:
+- professional
+- technical
+- concise
+- recruiter-friendly
+- engineering-focused
+
+Avoid:
+- generic student introductions
+- emotional storytelling
+- exaggerated claims
+- unnecessary filler text
+
+### Short About Paragraph
+Robotics and AI engineering student focused on ROS development, computer vision, embedded systems, and intelligent robotic applications.

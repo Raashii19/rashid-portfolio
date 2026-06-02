@@ -1,0 +1,502 @@
+# PORTFOLIO_BRIEF.md
+
+## 1. Purpose
+
+This document is the master brief for building my personal portfolio website.
+
+The goal is not to make a student-style website.
+The goal is to build an industry-standard, recruiter-focused, robotics portfolio that helps me get a job in:
+
+- Robotics Software
+- ROS Development
+- Computer Vision
+- AI for Robotics
+- Embedded / IoT / Microcontroller Systems
+
+The portfolio must look professional, modern, technically strong, and job-ready.
+
+---
+
+## 2. Personal Identity
+
+### Full Name
+MUHAMMED RASHID V P
+
+### Current Status
+4th year BTech student
+
+### Institute
+Rajiv Gandhi Institute of Technology, Kottayam
+
+### Domain
+Robotics and AI
+
+### Target Roles
+- ROS Developer
+- Robotics Software Engineer
+- AI / Machine Vision Engineer
+- Computer Vision Developer
+- Embedded Robotics Engineer
+
+### Professional Positioning
+I am not just a student building a website.
+I am a robotics and AI engineering candidate preparing for industry roles.
+
+The website should reflect:
+- seriousness
+- technical depth
+- project thinking
+- engineering clarity
+- modern design sense
+- job-readiness
+
+---
+
+## 3. Skills to Highlight
+
+### Robotics / Middleware
+- ROS1
+- ROS2
+- robotics integration
+- robot software workflows
+- simulation awareness
+
+### Mechanical / CAD
+- SolidWorks
+- CATIA
+
+### Embedded / Hardware
+- microcontrollers
+- embedded systems
+- IoT
+- sensors
+- control logic
+- hardware-software integration
+
+### AI / Data / Vision
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- OpenCV
+
+### Engineering Fundamentals
+- Signals and Systems
+- problem solving
+- systems thinking
+- debugging
+- technical learning ability
+
+### Soft Strengths
+- problem solving
+- using AI tools effectively in projects
+- fast learning
+- project execution mindset
+
+---
+
+## 4. Projects to Include
+
+### Project 1
+Spherical Workspace Robotic Arm
+
+#### What to show
+- project title
+- short overview
+- problem solved
+- concept and mechanism
+- CAD or design visuals if available
+- control / logic / kinematics explanation if available
+- technologies used
+- outcomes
+- future improvement ideas
+
+#### Positioning
+This should be the flagship project.
+
+The presentation should sound like engineering work, not a casual college submission.
+
+---
+
+### Project 2
+Line Follower Robot
+
+#### What to show
+- project title
+- objective
+- sensor logic
+- control method
+- embedded implementation
+- optimization / tuning
+- result
+- what I learned
+
+#### Positioning
+This should still look professional even if it is a simple project.
+
+Do not present it as a basic toy project.
+Present it as a control and embedded systems project.
+
+---
+
+## 5. Missing Sections That Must Still Exist
+
+Even if content is not ready yet, the site should already include placeholders for:
+
+- Certificates
+- Resume
+- Research / Papers / Publications
+- Contact
+
+These sections should not be removed.
+If content is empty, show a polished “coming soon” or “under preparation” layout.
+
+---
+
+## 6. Website Sections Required
+
+The site must contain exactly these main sections:
+
+1. Home
+2. About
+3. Skills
+4. Projects
+5. Certificates
+6. Resume
+7. Contact
+
+Optional sections:
+- Learning Roadmap
+- Research Interest
+- Tools and Tech Stack
+- GitHub highlights
+
+---
+
+## 7. Content Strategy
+
+The website must speak to recruiters.
+
+That means every major section should answer these questions:
+
+- Who am I?
+- What do I build?
+- What roles am I targeting?
+- What proof do I have?
+- How do I contact me?
+- Why should a robotics company trust me?
+
+Every section should make me look like a candidate who can contribute to robotics and AI teams.
+
+---
+
+## 8. Design Direction
+
+### Style
+- modern
+- futuristic
+- robotics-inspired
+- clean
+- premium
+- industry-standard
+- dark theme
+
+### Avoid
+- childish design
+- random animation overload
+- gaming UI
+- neon chaos
+- cluttered layout
+- excessive effects
+- generic template look
+
+### Visual Mood
+The website should feel like:
+- a robotics lab
+- a modern engineering product
+- a high-end technical portfolio
+- a startup-grade personal brand
+
+---
+
+## 9. Color Direction
+
+Use a dark engineering theme with:
+
+- black
+- charcoal
+- deep blue
+- electric blue accents
+- controlled red highlights
+- white / off-white text
+
+Rules:
+- black is the base
+- blue is the main accent
+- red is used only for emphasis
+- do not overuse glowing effects
+
+---
+
+## 10. Typography Direction
+
+Typography should be:
+- clean
+- modern
+- highly readable
+- professional
+- strong hierarchy
+
+Use:
+- large bold headlines
+- clear section titles
+- readable body text
+- strong contrast in dark mode
+
+The site must look good on mobile and desktop.
+
+---
+
+## 11. Layout Principles
+
+The layout should be:
+- spacious
+- organized
+- visually balanced
+- easy to scan
+- recruiter-friendly
+- performance-friendly
+
+Use:
+- card-based project sections
+- strong hero area
+- clear call-to-action buttons
+- simple navigation
+- smooth but not distracting motion
+
+---
+
+## 12. Hero Section Requirements
+
+The home section must immediately communicate:
+
+- my name
+- my target domain
+- my strongest skills
+- what value I offer
+
+Example message style:
+
+Robotics & AI Engineer building intelligent systems using ROS, embedded technology, and computer vision.
+
+Buttons should include:
+- View Projects
+- Download Resume
+- Contact Me
+
+---
+
+## 13. About Section Requirements
+
+The about section should not be a generic paragraph.
+
+It should explain:
+- what I study
+- why robotics interests me
+- how I combine robotics, embedded systems, and AI
+- my problem-solving approach
+- my career goal
+
+Tone:
+- confident
+- technical
+- concise
+- recruiter-friendly
+
+---
+
+## 14. Skills Section Requirements
+
+The skills section should be grouped by category:
+
+### Robotics
+ROS1, ROS2, simulation, integration
+
+### AI / Vision
+OpenCV, NumPy, Pandas, Matplotlib, Seaborn
+
+### Embedded
+Microcontrollers, IoT, embedded systems, sensors
+
+### CAD / Design
+SolidWorks, CATIA
+
+### Fundamentals
+Signals and Systems, problem solving, debugging
+
+The skills section should look structured and credible.
+
+---
+
+## 15. Projects Section Requirements
+
+Each project must have:
+- title
+- one-line summary
+- full description
+- technologies used
+- key challenges
+- solution / implementation
+- outcome
+- links if available
+- visual media if available
+
+The projects must be presented like case studies, not like random college submissions.
+
+If images or diagrams are not yet available, use neat placeholder cards so the section still feels complete.
+
+---
+
+## 16. Certificates Section Requirements
+
+This section must exist even if there are no certificates yet.
+
+If empty, show:
+- “Certificates in progress”
+- “Upcoming certifications”
+- “Learning roadmap”
+
+Possible future topics:
+- ROS2
+- Computer Vision
+- Embedded Systems
+- Robotics Simulation
+- AI / ML
+
+---
+
+## 17. Resume Section Requirements
+
+A resume section must exist.
+
+For now:
+- show a resume upload / download area
+- if no resume is ready, show a placeholder with a professional note
+- allow future replacement with a PDF download button
+
+---
+
+## 18. Contact Section Requirements
+
+The contact section must include:
+- email
+- GitHub
+- LinkedIn
+- simple contact form
+- call to action
+
+GitHub:
+https://github.com/Raashii19
+
+LinkedIn:
+www.linkedin.com/in/muhammed-rashid-v-p
+
+Use clean icon-based contact cards.
+
+---
+
+## 19. SEO Requirements
+
+The website must be SEO-friendly.
+
+Suggested keywords:
+- Robotics portfolio
+- ROS developer portfolio
+- AI engineer portfolio
+- computer vision portfolio
+- embedded systems portfolio
+- robotics engineer student portfolio
+
+Use:
+- proper page titles
+- meta descriptions
+- clean headings
+- semantic HTML
+- readable URLs
+- fast load performance
+
+---
+
+## 20. Technical Stack Preference
+
+Preferred stack:
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- Vercel deployment
+
+Optional:
+- Lucide icons
+- MDX or markdown-based project content
+- reusable components
+- responsive sections
+- minimal 3D or subtle motion only if it improves the page
+
+Deployment target:
+- Vercel
+
+---
+
+## 21. Build Philosophy
+
+The portfolio must be built like a product.
+
+That means:
+- clear information hierarchy
+- clean engineering presentation
+- scalable component structure
+- reusable layout
+- strong mobile responsiveness
+- good performance
+- polished interactions
+
+Do not build it as a one-page toy portfolio.
+Build it like a real engineering showcase.
+
+---
+
+## 22. Output Expectations
+
+When generating the portfolio, focus on:
+- professional design
+- robotics theme
+- recruiter impact
+- technical credibility
+- modern web standards
+- maintainable structure
+
+The final result should feel like a portfolio from a serious robotics and AI engineer candidate.
+
+---
+
+## 23. Content Rules
+
+Always prefer:
+- clarity over decoration
+- structure over clutter
+- professional wording over casual wording
+- engineering value over generic self-promotion
+- meaningful visuals over random animation
+
+---
+
+## 24. Final Goal
+
+The final website should help me:
+- look credible to robotics companies
+- show practical technical skills
+- stand out from normal student portfolios
+- present my projects professionally
+- create a strong first impression for job applications
+
+This is the main objective of the portfolio.

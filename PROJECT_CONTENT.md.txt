@@ -1,0 +1,445 @@
+# PROJECT_CONTENT.md
+
+## Purpose
+
+This file contains the detailed project content for the portfolio website of MUHAMMED RASHID V P.
+
+The purpose is to present projects in a recruiter-focused, engineering-oriented, industry-standard format.
+
+Projects should be presented as engineering case studies rather than simple academic submissions.
+
+---
+
+# FLAGSHIP PROJECT
+
+## Project Name
+Design and Implementation of a Spherical Workspace Robotic Arm for Spray Painting
+
+---
+
+## Project Category
+Robotics Engineering / Manipulator Design / Embedded Systems / Motion Planning
+
+---
+
+## Project Type
+Team Project
+
+---
+
+## Short Recruiter Summary
+
+A 5-DoF spherical workspace robotic arm designed for automated spray painting applications, integrating robotic kinematics, trajectory planning, embedded control, and browser-based operation.
+
+---
+
+## Problem Statement
+
+Manual spray painting operations often lead to:
+- inconsistent coating
+- paint wastage
+- reduced precision
+- worker exposure to hazardous chemicals
+
+Industrial environments require robotic systems capable of:
+- repeatable motion
+- smooth trajectory execution
+- precise end-effector positioning
+- uniform coating
+
+---
+
+## Project Objective
+
+The goal of this project was to design and develop a robotic arm capable of performing controlled spray painting operations using:
+- spherical workspace motion
+- smooth trajectory planning
+- accurate end-effector control
+- lightweight mechanical design
+- embedded servo control
+
+---
+
+## Engineering Features
+
+### Mechanical System
+- 5 Degrees of Freedom robotic manipulator
+- spherical workspace configuration
+- revolute joints
+- lightweight 3D printed structure
+- optimized reach and flexibility
+
+### Kinematics
+- forward kinematics
+- inverse kinematics
+- DH parameter modeling
+- workspace analysis
+
+### Motion Planning
+- quintic polynomial trajectory planning
+- smooth velocity profile
+- acceleration control
+- continuous path generation
+
+### Embedded System
+- Arduino UNO control
+- PWM-based servo control
+- Bluetooth communication
+- coordinated joint movement
+
+### Control Interface
+- browser-based control system
+- wireless control capability
+- joint angle adjustment
+- fluid control support
+
+### Fluid System
+- compressor integration
+- nozzle-based spray mechanism
+- simulated fluid testing using water
+
+---
+
+## Key Technical Specifications
+
+### Workspace
+- spherical workspace
+- radial reach: approximately 400–430 mm
+- vertical sweep: 0°–135°
+- base rotation: 0°–360°
+
+### Link Lengths
+- Base Link: 140 mm
+- Shoulder Link: 116.68 mm
+- Arm Link: 88.04 mm
+- Wrist Link: 15 mm
+- End Effector / Nozzle: 75 mm
+
+### Motors Used
+#### MG996R Servo
+Used for:
+- base
+- shoulder
+- arm joints
+
+#### MG90S Servo
+Used for:
+- wrist
+- end-effector orientation
+
+### Electronics
+- Arduino UNO
+- Buck Converter
+- Bluetooth Module
+- 12V 10A SMPS
+
+---
+
+## Software & Tools Used
+
+### Robotics & Simulation
+- MATLAB
+- Robotics concepts
+- trajectory planning
+
+### CAD & Design
+- Fusion360
+- mechanical structure modeling
+
+### Embedded
+- Arduino IDE
+- servo control
+- PWM control
+
+### Web Interface
+- browser-based control panel
+- Bluetooth communication workflow
+
+---
+
+## Engineering Analysis Included
+
+### Kinematic Analysis
+- forward kinematics equations
+- inverse kinematics calculations
+- joint-space analysis
+
+### Dynamic Analysis
+- force calculations
+- torque calculations
+- mass distribution analysis
+
+### Motion Analysis
+- velocity planning
+- acceleration profile generation
+- smooth trajectory execution
+
+### Motor Selection
+Torque-based servo motor selection for each joint.
+
+---
+
+## My Contribution
+
+Replace this section with my actual contribution.
+
+Possible contribution areas:
+- robotic design
+- CAD support
+- kinematics calculations
+- embedded programming
+- wiring and integration
+- testing
+- report preparation
+- trajectory planning
+- interface support
+
+---
+
+## Challenges Faced
+
+- maintaining smooth joint movement
+- torque limitations
+- lightweight structure design
+- trajectory smoothness
+- maintaining stable spray orientation
+- coordinating multiple joints
+
+---
+
+## Solution Approach
+
+The system used:
+- lightweight 3D printed components
+- quintic polynomial trajectory planning
+- torque-aware motor selection
+- embedded servo coordination
+- structured robotic kinematic modeling
+
+---
+
+## Final Result
+
+The robotic arm successfully demonstrated:
+- smooth robotic motion
+- stable trajectory execution
+- coordinated multi-joint movement
+- effective workspace coverage
+- controlled fluid dispensing simulation
+
+The project validated the effectiveness of:
+- the mechanical design
+- trajectory planning
+- embedded control strategy
+- overall robotic system integration
+
+---
+
+## Engineering Value
+
+This project demonstrates:
+- robotics engineering fundamentals
+- manipulator design understanding
+- embedded systems integration
+- motion planning
+- practical system engineering
+- engineering problem solving
+
+---
+
+## Portfolio Importance
+
+This should be the main highlighted project on the portfolio website.
+
+It should visually appear:
+- larger than other projects
+- first in the projects section
+- with strong engineering visuals
+- with detailed case-study formatting
+
+---
+
+# SECOND MAJOR PROJECT
+
+## Project Name
+Vision-Based Line Follower Robot
+
+---
+
+## Project Category
+Computer Vision / ROS / Mobile Robotics
+
+---
+
+## Short Recruiter Summary
+
+A camera-based autonomous line-following robot using OpenCV image processing and ROS motion control for real-time path tracking.
+
+---
+
+## Project Objective
+
+To develop a robot capable of:
+- detecting a path using camera input
+- processing images in real time
+- calculating positional error
+- generating steering corrections autonomously
+
+---
+
+## Technologies Used
+
+### Robotics
+- ROS
+
+### Vision
+- OpenCV
+- cv_bridge
+
+### Programming
+- Python
+
+---
+
+## Core Functionalities
+
+### Image Processing
+- camera frame acquisition
+- HSV conversion
+- color thresholding
+- mask generation
+
+### Tracking
+- centroid detection
+- error calculation
+- visual tracking logic
+
+### Motion Control
+- cmd_vel publishing
+- angular correction
+- linear velocity control
+
+---
+
+## Engineering Concepts Demonstrated
+
+- ROS publisher/subscriber workflow
+- image processing pipeline
+- centroid tracking
+- autonomous steering logic
+- robotics control systems
+
+---
+
+## Why This Project Matters
+
+This project demonstrates:
+- robotics + AI integration
+- computer vision fundamentals
+- autonomous robotic behavior
+- practical ROS usage
+
+It aligns well with:
+- autonomous systems roles
+- robotics software roles
+- AI and vision engineering roles
+
+---
+
+## My Contribution
+
+Replace with my actual contribution.
+
+Possible areas:
+- image processing logic
+- OpenCV pipeline
+- ROS integration
+- steering control
+- testing
+- tuning
+
+---
+
+## Final Result
+
+The robot successfully:
+- detected the target path
+- tracked centroid position
+- corrected steering in real time
+- maintained autonomous movement
+
+---
+
+## Portfolio Importance
+
+This should be the second highlighted project after the robotic arm.
+
+---
+
+# SUPPORTING ROS PROJECTS
+
+## Section Name
+ROS Practice and Utility Nodes
+
+---
+
+## Purpose
+
+These projects demonstrate foundational ROS knowledge and practical robotics software experimentation.
+
+They should be shown as smaller supporting cards.
+
+---
+
+## Included Projects
+
+### Keyboard Teleoperation
+ROS keyboard publisher for robot control.
+
+### Keyboard to Twist Mapping
+Conversion of keyboard inputs into geometry_msgs/Twist commands.
+
+### Forward / Stop Motion Demo
+Basic autonomous movement sequence.
+
+### Laser Range-Ahead Demo
+LaserScan data processing and distance monitoring.
+
+### Wander / Avoid Demo
+Simple obstacle detection and avoidance logic.
+
+---
+
+## Skills Demonstrated
+
+- ROS nodes
+- publishers and subscribers
+- Twist message handling
+- laser scan processing
+- motion command generation
+- robotics debugging
+- basic autonomous behavior
+
+---
+
+# PROJECT SECTION DESIGN RULES
+
+The Projects section should:
+- look professional
+- use dark robotics styling
+- prioritize readability
+- avoid excessive animation
+- use clean card layouts
+- use engineering terminology
+- focus on practical implementation
+
+---
+
+# FINAL PORTFOLIO GOAL
+
+The final portfolio should make recruiters understand that I:
+- understand robotics engineering concepts
+- can build practical robotics systems
+- can integrate hardware and software
+- can work on ROS and robotics software
+- can contribute to robotics engineering teams

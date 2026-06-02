@@ -1,0 +1,102 @@
+# Portfolio Design Skill
+
+## Purpose
+This skill defines how to build and maintain the portfolio website for MUHAMMED RASHID V P.
+
+The output must be:
+- recruiter-focused
+- robotics-themed
+- modern
+- dark
+- clean
+- industry-standard
+- responsive
+- job-oriented
+
+## Identity
+The portfolio is for:
+MUHAMMED RASHID V P
+4th year BTech student
+Robotics and AI domain
+Targeting ROS, robotics software, AI, and computer vision roles
+
+## Core Design Principles
+- Use dark theme as default
+- Use black, deep blue, electric blue, and limited red accents
+- Prefer clean engineering visuals over flashy effects
+- Use spacious layout and strong hierarchy
+- Make the website look like a serious technical portfolio, not a student project
+- Prioritize readability, performance, and professionalism
+
+## Audience
+Primary audience:
+- robotics recruiters
+- AI and vision hiring managers
+- embedded systems teams
+- startup founders
+- internship evaluators
+
+## Writing Style
+All content should sound:
+- confident
+- technical
+- concise
+- professional
+- credible
+
+Avoid:
+- childish wording
+- exaggerated claims
+- generic self-introductions
+- filler text
+
+## Portfolio Sections
+Required sections:
+- Home
+- About
+- Skills
+- Projects
+- Certificates
+- Resume
+- Contact
+
+Optional sections:
+- Learning roadmap
+- Research interest
+- Tools and tech stack
+- GitHub highlights
+
+## Project Presentation Rules
+Each project must be written like a case study:
+- Problem
+- Goal
+- Design
+- Tools
+- Implementation
+- Result
+- Future improvement
+
+For now, prioritize:
+- Spherical Workspace Robotic Arm
+- Line Follower Robot
+
+## Code Style Rules
+When generating code:
+- prefer Next.js
+- use Tailwind CSS
+- use Framer Motion only where it improves polish
+- keep components reusable
+- keep code structured and maintainable
+- make mobile responsiveness mandatory
+
+## Quality Rules
+Before finalizing any page:
+- verify layout on mobile and desktop
+- ensure sections have clear spacing
+- ensure text contrast is strong
+- avoid clutter
+- avoid too many animations
+- ensure CTAs are obvious
+
+## Final Goal
+Create a portfolio that makes me look like a robotics engineer candidate who is ready for real industry work.

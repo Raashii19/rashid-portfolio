@@ -1,0 +1,145 @@
+# SKILLS.md
+
+## Skills Section Structure
+
+The skills section should be organized in categorized cards or grids.
+
+The design must look:
+- professional
+- technical
+- clean
+- recruiter-friendly
+
+Do not create cluttered skill bars or flashy animations.
+
+---
+
+# Robotics
+
+## Main Skills
+- ROS1
+- ROS2
+- robotic system integration
+- robot control workflows
+- robotic motion concepts
+- simulation awareness
+
+## Highlight
+Strong interest in robotics software development and intelligent robotic systems.
+
+---
+
+# AI & Computer Vision
+
+## Main Skills
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Concepts
+- image processing
+- computer vision basics
+- data analysis
+- visual tracking
+- robotic vision workflows
+
+## Highlight
+Experience combining robotics and computer vision for autonomous behavior and control.
+
+---
+
+# Embedded Systems & IoT
+
+## Main Skills
+- microcontrollers
+- embedded systems
+- Arduino
+- IoT concepts
+- sensor integration
+- PWM control
+- actuator interfacing
+
+## Highlight
+Experience integrating hardware and software for robotic applications.
+
+---
+
+# CAD & Mechanical Design
+
+## Main Skills
+- SolidWorks
+- CATIA
+- Fusion360
+
+## Concepts
+- robotic arm structure
+- linkage understanding
+- mechanical integration
+- design visualization
+
+## Highlight
+Understanding of mechanical structure and robotics-oriented CAD workflows.
+
+---
+
+# Programming & Tools
+
+## Main Skills
+- Python
+- basic C/C++
+- Linux basics
+- GitHub
+- VS Code
+
+## Highlight
+Focused on robotics-oriented software development and practical implementation.
+
+---
+
+# Engineering Fundamentals
+
+## Main Skills
+- Signals and Systems
+- problem solving
+- debugging
+- system thinking
+- engineering analysis
+
+## Highlight
+Strong interest in practical engineering problem solving and robotics applications.
+
+---
+
+# Learning Roadmap
+
+## Currently Learning
+- advanced ROS2
+- robotic simulation
+- autonomous navigation
+- SLAM concepts
+- AI for robotics
+- robotic software architecture
+
+---
+
+# Skills Section Design Rules
+
+The skills section should:
+- use categorized cards
+- use modern dark-theme UI
+- avoid progress bars
+- avoid fake percentage ratings
+- use clean typography
+- use readable spacing
+- look like a professional engineering portfolio
+
+---
+
+# Final Goal
+
+The skills section should make recruiters quickly understand:
+- what technologies I know
+- what domains I focus on
+- what type of robotics role I fit into

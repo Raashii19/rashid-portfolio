@@ -1,0 +1,221 @@
+# PROJECTS.md
+
+## Portfolio Project Strategy
+
+This file defines which projects should appear on my portfolio website and how they should be presented.
+
+The portfolio must be recruiter-focused, clean, and industry-standard.
+Do not show every script as a separate project.
+Group small ROS practice files into one supporting section.
+
+---
+
+# Project Priority Order
+
+## 1. Flagship Project
+Spherical Workspace Robotic Arm for Spray Painting
+
+## 2. Strong Supporting Project
+Vision-Based Line Follower Robot
+
+## 3. Supporting ROS Practice and Utility Nodes
+- Keyboard Teleoperation with ROS
+- Twist Conversion from Keyboard Input
+- Forward / Stop Motion Demo
+- Laser Scan Range-Ahead Demo
+- Obstacle Avoidance / Wander Demo
+
+---
+
+# 1) Flagship Project
+## Spherical Workspace Robotic Arm for Spray Painting
+
+### Type
+Robotics / Manipulator / Embedded Control / Motion Planning
+
+### Portfolio Positioning
+This is my flagship robotics project and should be shown as the strongest proof of my engineering ability.
+
+### Official Project Name
+Design and Implementation of a Spherical Workspace Robotic Arm for Spray Painting
+
+### Short Summary
+A 5-DoF spherical workspace robotic arm designed for automated spray painting applications. It includes kinematic modeling, trajectory planning, torque analysis, motor selection, embedded control, and a browser-based control interface.
+
+### What the project demonstrates
+- robotic arm design
+- forward and inverse kinematics
+- DH parameter modeling
+- trajectory planning
+- velocity and acceleration control
+- torque estimation
+- servo motor selection
+- Arduino-based control
+- Bluetooth communication
+- web-based control interface
+- mechanical-electrical-software integration
+
+### Key Technical Details
+- 5 degrees of freedom
+- spherical workspace
+- base rotation: 0° to 360°
+- vertical sweep: 0° to 135°
+- approximate reach: 400–430 mm
+- link lengths:
+  - base link: 140 mm
+  - shoulder link: 116.68 mm
+  - arm link: 88.04 mm
+  - wrist link: 15 mm
+  - nozzle/end-effector: 75 mm
+- motors:
+  - MG996R for higher torque joints
+  - MG90S for wrist/end-effector
+- control:
+  - Arduino UNO
+  - Bluetooth module
+  - PWM servo control
+  - browser-based interface
+- total project cost: about 6173 INR
+
+### Main Engineering Strengths to Highlight
+- kinematic analysis
+- motion planning
+- torque-based motor selection
+- mechanical design
+- system integration
+- embedded implementation
+- cost-aware engineering
+
+### Portfolio Wording Rule
+Present this as a serious academic robotics prototype and team project.
+Do not claim it as a solo industrial product.
+
+### My Contribution
+Fill this honestly with my real contribution, such as:
+- kinematics calculations
+- CAD support
+- control logic
+- embedded integration
+- testing
+- report writing
+- web interface support
+
+### Best Visual Assets
+- CAD screenshots
+- robot photos
+- kinematics diagram
+- torque table
+- motion planning diagram
+- interface screenshots
+- project report summary
+
+### Short Portfolio Description
+A 5-DoF spherical workspace robotic arm for spray painting with kinematic analysis, trajectory planning, servo control, and browser-based operation.
+
+---
+
+# 2) Strong Supporting Project
+## Vision-Based Line Follower Robot
+
+### Type
+Computer Vision / Embedded Robotics / Control
+
+### Portfolio Positioning
+This project should be presented as a robotics and vision project.
+
+### Short Summary
+A line-following robot that uses OpenCV-based image processing to detect a colored track and generate steering commands from centroid error.
+
+### What the code demonstrates
+- ROS subscriber to camera stream
+- image conversion using cv_bridge
+- HSV thresholding
+- mask creation
+- centroid calculation
+- steering correction from error
+- cmd_vel publishing
+
+### Why this project matters
+- combines robotics and vision
+- shows OpenCV usage
+- proves practical control logic
+- relevant to autonomous mobile robotics roles
+
+### Best Technical Highlights
+- ROS image pipeline
+- color segmentation
+- centroid tracking
+- error-based steering
+- linear and angular velocity control
+
+### Short Portfolio Description
+A camera-based line follower robot using OpenCV color segmentation and centroid tracking to generate autonomous motion commands.
+
+### Best Visual Assets
+- input camera frame
+- thresholded mask
+- tracked centroid image
+- control flow diagram
+- demo video
+
+---
+
+# 3) Supporting ROS Practice and Utility Nodes
+## Group these under one section in the portfolio
+
+### A. Keyboard Teleoperation with ROS
+Publishes keystrokes to a ROS topic using terminal input handling.
+
+### B. Twist Conversion from Keyboard Input
+Maps keyboard keys to `geometry_msgs/Twist` messages and publishes to `cmd_vel`.
+
+### C. Forward / Stop Motion Demo
+A basic motion node that alternates between forward and stop commands.
+
+### D. Laser Scan Range-Ahead Demo
+Reads `LaserScan` data and prints the range ahead.
+
+### E. Obstacle Avoidance / Wander Demo
+Uses front laser scan data to stop and turn when an obstacle is close.
+
+### Why these should be grouped
+These are useful practice projects, but they are too small to be separate main portfolio projects.
+
+### What they prove
+- ROS node creation
+- publisher/subscriber structure
+- message handling
+- movement command generation
+- laser scan usage
+- simple obstacle logic
+- debugging ability
+
+### How to present them
+Use one section called:
+
+## ROS Practice and Utility Nodes
+
+Then add small cards for each demo with one-line descriptions.
+
+---
+
+# Recommended Portfolio Order
+
+1. Home
+2. About
+3. Skills
+4. Projects
+5. Certificates
+6. Resume
+7. Contact
+
+---
+
+# Portfolio Identity Line
+Robotics & AI Engineer | ROS Developer | Computer Vision Enthusiast
+
+# Value Statement
+Building intelligent robotic systems using ROS, embedded control, and computer vision.
+
+# Goal
+Create a portfolio that helps me get a job in robotics, AI, vision, and embedded systems.

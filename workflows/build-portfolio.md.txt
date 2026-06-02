@@ -1,0 +1,94 @@
+# Build Portfolio Workflow
+
+## Goal
+Build a professional robotics and AI portfolio website for MUHAMMED RASHID V P.
+
+## Input Sources
+- PORTFOLIO_BRIEF.md
+- portfolio-design skill
+- GitHub profile
+- LinkedIn profile
+- project details
+- resume placeholder content
+
+## Workflow Steps
+
+### Step 1: Read the brief
+Read PORTFOLIO_BRIEF.md completely.
+Extract:
+- identity
+- target role
+- skills
+- project priorities
+- design direction
+- content gaps
+
+### Step 2: Create a site plan
+Create a sitemap for:
+- Home
+- About
+- Skills
+- Projects
+- Certificates
+- Resume
+- Contact
+
+### Step 3: Build design system
+Define:
+- color palette
+- typography
+- spacing
+- button styles
+- card styles
+- section layout
+- mobile behavior
+
+### Step 4: Build homepage first
+The homepage must include:
+- strong hero section
+- short professional intro
+- role statement
+- CTA buttons
+- visual robotics tone
+
+### Step 5: Build about and skills
+Show:
+- robotics background
+- AI and vision strength
+- embedded systems knowledge
+- CAD tools
+- problem-solving ability
+
+### Step 6: Build projects section
+Present projects as engineering case studies:
+- Spherical Workspace Robotic Arm
+- Line Follower Robot
+
+### Step 7: Add certificates and resume placeholders
+Even if content is missing, create polished sections that can be updated later.
+
+### Step 8: Build contact section
+Include:
+- GitHub
+- LinkedIn
+- email form
+- clear contact CTA
+
+### Step 9: Review and polish
+Check:
+- responsiveness
+- spacing
+- typography
+- animation quality
+- recruiter readability
+- performance
+
+### Step 10: Prepare for deployment
+Prepare the site for Vercel deployment.
+
+## Output Rules
+- Keep the site industry-standard
+- Avoid clutter
+- Avoid overanimation
+- Prioritize job-readiness
+- Make project presentation strong
